@@ -1,4 +1,7 @@
-## Hi there 👋
+# My portfolio
+
+## Projects
+- [Data Projects](https://github.com/alainfkhan/data-projects)
 
 <!--
 **alainfkhan/alainfkhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
