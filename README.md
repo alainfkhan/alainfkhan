@@ -2,15 +2,15 @@
 
 ## Data analysis projects
 
-Links to data projects and their original dataset source:
+Links to data projects and their main dataset source:
 - [Olist project](https://github.com/alainfkhan/data-projects-projects/blob/main/static/olistbr/README.md) - ([:link:dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce))
 - [Restaurant Business Online project](https://github.com/alainfkhan/data-projects-projects/tree/main/macos/bogacz-res) - ([:link:dataset](https://www.kaggle.com/datasets/michau96/restaurant-business-rankings-2020))
 
 ## Project-subproject trees
 ### Data Project Manager
-- [`dpm`](https://github.com/alainfkhan/data-projects) - Data Project (DP) Manager: Monorepo
-  - [`dpx`](https://github.com/alainfkhan/data-projects-dpx) - DP eXecutor: CLI app
-  - [`dpp`](https://github.com/alainfkhan/data-projects-projects) - DP Projects: DP store
+- [`DPM`](https://github.com/alainfkhan/data-projects) - Data Project (DP) Manager: Monorepo
+  - [`DPX`](https://github.com/alainfkhan/data-projects-dpx) - DP eXecutor: CLI app
+  - [`DPP`](https://github.com/alainfkhan/data-projects-projects) - DP Projects: DP store
 
 
 <!--
