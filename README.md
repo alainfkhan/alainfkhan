@@ -1,11 +1,11 @@
 # My portfolio
 
-## Data analysis projects
+## Data analysis projects (updated frequently)
 
 - [Olist](https://github.com/alainfkhan/data-projects-projects/blob/main/static/olistbr/README.md) ([🔗dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce))
 <!-- - [Restaurant Business Online project](https://github.com/alainfkhan/data-projects-projects/tree/main/macos/bogacz-res) ([🔗dataset](https://www.kaggle.com/datasets/michau96/restaurant-business-rankings-2020)) -->
 
-## Recent activity (26/03/26)
+## Recent activity (01/04/26)
 
 - Currently working on: [Olist](https://github.com/alainfkhan/data-projects-projects/blob/main/static/olistbr/README.md) - [Sales Power BI Visualisations](https://github.com/alainfkhan/data-projects-projects/tree/main/static/olistbr/reports/sales)
 - Previously worked on: [Olist](https://github.com/alainfkhan/data-projects-projects/blob/main/static/olistbr/README.md) - [Scratch SQL analysis](https://github.com/alainfkhan/data-projects-projects/tree/main/static/olistbr/queries/analysis/report/_scratch)
