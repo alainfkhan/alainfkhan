@@ -1,18 +1,21 @@
 # My portfolio
 
-## Data analysis projects (updated frequently)
+## Data Projects (updated frequently)
 
-- [Olist](https://github.com/alainfkhan/data-projects-projects/blob/main/static/olistbr/README.md) ([🔗dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce))
-<!-- - [Restaurant Business Online project](https://github.com/alainfkhan/data-projects-projects/tree/main/macos/bogacz-res) ([🔗dataset](https://www.kaggle.com/datasets/michau96/restaurant-business-rankings-2020)) -->
+- [Olist](https://github.com/alainfkhan/data-projects-projects/blob/main/static/olistbr/README.md)
+- [Restaurant Business Online rankings](https://github.com/alainfkhan/data-projects-projects/tree/main/macos/bogacz-res)
+- [Lending Club Loans](https://github.com/alainfkhan/data-projects-projects/tree/main/static/lc-loan)
 
-## Recent activity (01/04/26)
 
-- Currently working on: [Olist](https://github.com/alainfkhan/data-projects-projects/blob/main/static/olistbr/README.md) - [Sales Power BI Visualisations](https://github.com/alainfkhan/data-projects-projects/tree/main/static/olistbr/reports/sales)
-- Previously worked on: [Olist](https://github.com/alainfkhan/data-projects-projects/blob/main/static/olistbr/README.md) - [Scratch SQL analysis](https://github.com/alainfkhan/data-projects-projects/tree/main/static/olistbr/queries/analysis/report/_scratch)
+## Recent activity (16/04/26)
+
+- Currently working on: [(Olist) Predictive analytics on time](https://github.com/alainfkhan/data-projects-projects/tree/main/static/olistbr/analysis)
+- Previously worked on: [(Olist) Power BI visualisations on sales](https://github.com/alainfkhan/data-projects-projects/tree/main/static/olistbr/reports)
 
 Currently learning:
 
-- DAX fundamentals: row/filter context
+- Visualising data in Python: Matplotlib, Plotly
+- Polars, DuckDB
 
 ## Other projects
 
