@@ -1,15 +1,16 @@
 # My portfolio
 
-## Data Projects (updated frequently)
+## Data Projects
 
 - [Olist](https://github.com/alainfkhan/data-projects-projects/blob/main/static/olistbr/README.md)
 - [Restaurant Business Online rankings](https://github.com/alainfkhan/data-projects-projects/tree/main/macos/bogacz-res)
-- [Lending Club Loans](https://github.com/alainfkhan/data-projects-projects/tree/main/static/lc-loan)
+- [Lending Club Loans](https://github.com/alainfkhan/data-projects-projects/tree/main/static/lc-loan) (work in progress)
 
-## Recent activity (01/05/26)
+## Recent Activity (09/06/26)
 
-- Currently working on: [(Olist) Predictive analytics on time](https://github.com/alainfkhan/data-projects-projects/tree/main/static/olistbr/analysis)
-- Previously worked on: [(Olist) Power BI visualisations on sales](https://github.com/alainfkhan/data-projects-projects/tree/main/static/olistbr/reports)
+I am currently going through these online Machine Learning courses on YouTube:
+- [STAT841: Supervised Learning](https://youtube.com/playlist?list=PLehuLRPyt1HzXDemu7K4ETcF0Ld_B5adG&si=NFAtarpiKJoH9G0r) from The University of Waterloo (Ali Ghodsi)
+- [CS229: Machine Learning](https://youtube.com/playlist?list=PLoROMvodv4rNH7qL6-efu_q2_bPuy0adh&si=GJ2XBK_5sGaraALU) from Stanford University (Anand Avati) 
 
 ## Other projects
 
